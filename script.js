@@ -1,4 +1,4 @@
-
+const API_KEY = "bb03eb4a2dbe4681927195510261510";
 const $ = (id) => document.getElementById(id);
 
 $("search-form").addEventListener("submit", async (e) => {
